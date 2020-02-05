@@ -8,7 +8,7 @@ Atom / Git / SourceTree / VSCode / Github
 PHP / Latavelを勉強中です。      
 
 # Works
--[Github].(http://github.com/toi-s)    
+-.[Github].(http://github.com/toi-s)    
 
 # Contact 
 -toicrowd@gamail    
