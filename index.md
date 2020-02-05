@@ -1,18 +1,18 @@
 # AboutMe
-IT系専門学校1年のとーいと申します。
+IT系専門学校1年のとーいと申します。</br>
 将来プログラマーになるために勉強を日々頑張っております。     
-</br></br>
+</br>
 # MySkill
-HTML / CSS / Javascript / jQuery</br>
-Atom / Git / SourceTree / VSCode / Github</br>
-PHP / Latavelを勉強中です。</br>
+HTML / CSS / Javascript / jQuery</br></br>
+Atom / Git / SourceTree / VSCode / Github</br></br>
+PHP / Latavelを勉強中です。</br></br>
 </br></br>
 # Works
 -[Github](http://github.com/toi-s)    
-</br></br>
+</br>
 # Contact 
 -toicrowd@gamail    
-</br></br>
+</br>
 # History
 -基本情報技術者試験(19.10)    
-</br></br>
+</br>
