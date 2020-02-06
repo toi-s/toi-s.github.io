@@ -12,7 +12,7 @@ PHP / Latavelを勉強中です。<br><br>
 <iframe src="https://www.openprocessing.org/sketch/836040/embed/" width="400" height="300"></iframe><br>
 <br>
 # Contact 
-<br>-toicrowd@gamail    
+<br>-toicrowd@gmail    
 <br>
 # History
 <br>-基本情報技術者試験(19.10)
