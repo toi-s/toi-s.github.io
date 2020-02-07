@@ -3,7 +3,7 @@
 将来プログラマーになるために勉強を日々頑張っております。     
 <br>
 # MySkill
-<br>HTML / CSS / Javascript / jQuery<br><br>
+<br>HTML / CSS / <br><br>
 Atom / Git / SourceTree / VSCode / Github<br><br>
 PHP / Latavelを勉強中です。<br><br>
 <br>
